@@ -2,6 +2,7 @@
 @import "reset.css";
 @import "variables.css";
 /*components*/
+@import "components/screen-header.css";
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
 /*screens*/
