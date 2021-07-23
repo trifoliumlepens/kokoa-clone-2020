@@ -25,7 +25,7 @@
 .status-bar__column .fa-battery-full {
   margin: 0px 5px;
 }
-.status-bar__column:last-child span {
+.status-bar:last-child span {
   position: relative;
   bottom: 1px;
 }
