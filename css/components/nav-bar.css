@@ -15,28 +15,12 @@
   position: relative;
   color: #2e363e;
 }
-.nav-comment__notification {
-  background-color: tomato;
-  width: 30px;
-  height: 30px;
-  border-radius: 15px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: white;
-  font-weight: 600;
+.nav__notification {
   position: absolute;
   left: 15px;
   bottom: 15px;
 }
-.nav-find__notification {
-  width: 6px;
-  height: 6px;
-  background-color: tomato;
-  border-radius: 3px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.nav__notification-sm {
   position: absolute;
   left: 30px;
   bottom: 30px;
